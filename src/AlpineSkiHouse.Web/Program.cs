@@ -7,6 +7,9 @@ using Microsoft.Extensions.Configuration;
 
 namespace AlpineSkiHouse
 {
+    // **************************************************************
+    // git clone https://github.com/AspNetMonsters/AlpineSkiHouse.git
+    // **************************************************************
     public class Program
     {
         public static void Main(string[] args)
